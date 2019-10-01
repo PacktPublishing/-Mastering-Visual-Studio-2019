@@ -36,7 +36,7 @@ This course is for those who have a basic working knowledge of Visual Studio and
 1.8 GHz or faster processor. Quad-core or better recommended.
 <LI> Memory: 2GB; 8GB of RAM recommended (2.5 GB minimum if running on a Virtual Machine)
 <LI> Storage: Minimum of 800 MB up to 210 GB of disk space depending on the features installed.
-<LI> Video Card that supports a minimum display resolution of 720p (1280 by 720); Visual Studio will work best at a resolution of WXGA (1366 by 768) or higher.
+<LI> Video Card that supports a minimum display resolution of 720p (1280 by 720); Visual Studio will work best at a resolution of WXGA (1366 by 768) or higher. </LI></UL>
 
 
 <UL>
