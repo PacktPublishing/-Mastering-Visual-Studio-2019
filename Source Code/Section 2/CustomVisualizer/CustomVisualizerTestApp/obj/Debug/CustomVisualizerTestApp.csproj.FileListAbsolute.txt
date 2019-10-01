@@ -1,0 +1,11 @@
+C:\Users\jgarverick\source\Repos\CustomVisualizer\CustomVisualizerTestApp\bin\Debug\CustomVisualizerTestApp.exe.config
+C:\Users\jgarverick\source\Repos\CustomVisualizer\CustomVisualizerTestApp\bin\Debug\CustomVisualizerTestApp.exe
+C:\Users\jgarverick\source\Repos\CustomVisualizer\CustomVisualizerTestApp\bin\Debug\CustomVisualizerTestApp.pdb
+C:\Users\jgarverick\source\Repos\CustomVisualizer\CustomVisualizerTestApp\bin\Debug\CustomVisualizer.dll
+C:\Users\jgarverick\source\Repos\CustomVisualizer\CustomVisualizerTestApp\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\jgarverick\source\Repos\CustomVisualizer\CustomVisualizerTestApp\obj\Debug\CustomVisualizerTestApp.csprojAssemblyReference.cache
+C:\Users\jgarverick\source\Repos\CustomVisualizer\CustomVisualizerTestApp\obj\Debug\CustomVisualizerTestApp.csproj.CoreCompileInputs.cache
+C:\Users\jgarverick\source\Repos\CustomVisualizer\CustomVisualizerTestApp\obj\Debug\CustomVisualizerTestApp.csproj.CopyComplete
+C:\Users\jgarverick\source\Repos\CustomVisualizer\CustomVisualizerTestApp\obj\Debug\CustomVisualizerTestApp.exe
+C:\Users\jgarverick\source\Repos\CustomVisualizer\CustomVisualizerTestApp\obj\Debug\CustomVisualizerTestApp.pdb
+C:\Users\jgarverick\source\Repos\CustomVisualizer\CustomVisualizerTestApp\bin\Debug\CustomVisualizer.pdb

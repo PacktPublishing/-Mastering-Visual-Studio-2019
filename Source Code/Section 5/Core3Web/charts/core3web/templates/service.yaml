@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: {{ template "core3web.fullname" . }}
+  labels:
+    app: {{ template "core3web.name" . }}
+    chart: {{ template "core3web.chart" . }}
+    release: {{ .Release.Name }}
+    heritage: {{ .Release.Service }}
+spec:
+  type: {{ .Values.service.type }}
+  ports:
+    - port: {{ .Values.service.port }}
+      targetPort: http
+      protocol: TCP
+      name: http
+  selector:
+    app: {{ template "core3web.name" . }}
+    release: {{ .Release.Name }}

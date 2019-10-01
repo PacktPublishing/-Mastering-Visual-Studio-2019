@@ -1,0 +1,11 @@
+C:\Users\jgarverick\source\Repos\CustomVisualizer\CustomVisualizer\bin\Debug\CustomVisualizer.dll
+C:\Users\jgarverick\source\Repos\CustomVisualizer\CustomVisualizer\bin\Debug\CustomVisualizer.pdb
+C:\Users\jgarverick\source\Repos\CustomVisualizer\CustomVisualizer\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\jgarverick\source\Repos\CustomVisualizer\CustomVisualizer\obj\Debug\CustomVisualizer.csprojAssemblyReference.cache
+C:\Users\jgarverick\source\Repos\CustomVisualizer\CustomVisualizer\obj\Debug\CustomVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\jgarverick\source\Repos\CustomVisualizer\CustomVisualizer\obj\Debug\CustomVisualizer.csproj.CopyComplete
+C:\Users\jgarverick\source\Repos\CustomVisualizer\CustomVisualizer\obj\Debug\CustomVisualizer.dll
+C:\Users\jgarverick\source\Repos\CustomVisualizer\CustomVisualizer\obj\Debug\CustomVisualizer.pdb
+C:\Users\jgarverick\source\Repos\CustomVisualizer\CustomVisualizer\obj\Debug\CustomVisualizer.MyObjectVizForm.resources
+C:\Users\jgarverick\source\Repos\CustomVisualizer\CustomVisualizer\obj\Debug\CustomVisualizer.csproj.GenerateResource.cache
+C:\Users\jgarverick\source\Repos\CustomVisualizer\CustomVisualizer\obj\Debug\CustomVisualizer.MyCollectionVizForm.resources

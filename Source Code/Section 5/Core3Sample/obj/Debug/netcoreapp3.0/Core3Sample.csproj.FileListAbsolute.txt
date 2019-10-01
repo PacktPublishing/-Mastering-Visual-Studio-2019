@@ -1,0 +1,12 @@
+C:\Users\jgarverick\source\Repos\Core3Sample\Core3Sample\bin\Debug\netcoreapp3.0\Core3Sample.exe
+C:\Users\jgarverick\source\Repos\Core3Sample\Core3Sample\bin\Debug\netcoreapp3.0\Core3Sample.deps.json
+C:\Users\jgarverick\source\Repos\Core3Sample\Core3Sample\bin\Debug\netcoreapp3.0\Core3Sample.runtimeconfig.json
+C:\Users\jgarverick\source\Repos\Core3Sample\Core3Sample\bin\Debug\netcoreapp3.0\Core3Sample.runtimeconfig.dev.json
+C:\Users\jgarverick\source\Repos\Core3Sample\Core3Sample\bin\Debug\netcoreapp3.0\Core3Sample.dll
+C:\Users\jgarverick\source\Repos\Core3Sample\Core3Sample\bin\Debug\netcoreapp3.0\Core3Sample.pdb
+C:\Users\jgarverick\source\Repos\Core3Sample\Core3Sample\obj\Debug\netcoreapp3.0\Core3Sample.csprojAssemblyReference.cache
+C:\Users\jgarverick\source\Repos\Core3Sample\Core3Sample\obj\Debug\netcoreapp3.0\Core3Sample.csproj.CoreCompileInputs.cache
+C:\Users\jgarverick\source\Repos\Core3Sample\Core3Sample\obj\Debug\netcoreapp3.0\Core3Sample.AssemblyInfoInputs.cache
+C:\Users\jgarverick\source\Repos\Core3Sample\Core3Sample\obj\Debug\netcoreapp3.0\Core3Sample.AssemblyInfo.cs
+C:\Users\jgarverick\source\Repos\Core3Sample\Core3Sample\obj\Debug\netcoreapp3.0\Core3Sample.dll
+C:\Users\jgarverick\source\Repos\Core3Sample\Core3Sample\obj\Debug\netcoreapp3.0\Core3Sample.pdb

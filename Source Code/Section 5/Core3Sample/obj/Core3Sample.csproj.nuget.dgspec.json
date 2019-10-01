@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jgarverick\\source\\Repos\\Core3Sample\\Core3Sample\\Core3Sample.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jgarverick\\source\\Repos\\Core3Sample\\Core3Sample\\Core3Sample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jgarverick\\source\\Repos\\Core3Sample\\Core3Sample\\Core3Sample.csproj",
+        "projectName": "Core3Sample",
+        "projectPath": "C:\\Users\\jgarverick\\source\\Repos\\Core3Sample\\Core3Sample\\Core3Sample.csproj",
+        "packagesPath": "C:\\Users\\jgarverick\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jgarverick\\source\\Repos\\Core3Sample\\Core3Sample\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jgarverick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": [
+            "Microsoft.NETCore.App"
+          ]
+        }
+      }
+    }
+  }
+}

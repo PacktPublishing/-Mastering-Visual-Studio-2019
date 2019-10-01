@@ -1,0 +1,8 @@
+EnableLLVM=False
+UseConcurrentGC=true
+LinkerBehavior=SdkOnly
+AdditionalSupportedEncodings=
+HttpClientImplementation=NSUrlSessionHandler
+SupportedArchitectures=ARM64
+BuildConfiguration=Debug
+TemplateName={65C0771A-452F-423B-995C-F0AE46E643BA}

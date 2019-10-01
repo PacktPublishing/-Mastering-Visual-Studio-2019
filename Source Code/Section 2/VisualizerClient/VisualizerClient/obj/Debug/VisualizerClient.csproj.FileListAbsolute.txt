@@ -1,0 +1,10 @@
+C:\Users\jgarverick\source\Repos\VisualizerClient\VisualizerClient\bin\Debug\VisualizerClient.pdb
+C:\Users\jgarverick\source\Repos\VisualizerClient\VisualizerClient\bin\Debug\VisualizerClient.exe.config
+C:\Users\jgarverick\source\Repos\VisualizerClient\VisualizerClient\bin\Debug\VisualizerClient.exe
+C:\Users\jgarverick\source\Repos\VisualizerClient\VisualizerClient\bin\Debug\CustomVisualizer.dll
+C:\Users\jgarverick\source\Repos\VisualizerClient\VisualizerClient\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\jgarverick\source\Repos\VisualizerClient\VisualizerClient\bin\Debug\CustomVisualizer.pdb
+C:\Users\jgarverick\source\Repos\VisualizerClient\VisualizerClient\obj\Debug\VisualizerClient.csproj.CoreCompileInputs.cache
+C:\Users\jgarverick\source\Repos\VisualizerClient\VisualizerClient\obj\Debug\VisualizerClient.csproj.CopyComplete
+C:\Users\jgarverick\source\Repos\VisualizerClient\VisualizerClient\obj\Debug\VisualizerClient.exe
+C:\Users\jgarverick\source\Repos\VisualizerClient\VisualizerClient\obj\Debug\VisualizerClient.pdb

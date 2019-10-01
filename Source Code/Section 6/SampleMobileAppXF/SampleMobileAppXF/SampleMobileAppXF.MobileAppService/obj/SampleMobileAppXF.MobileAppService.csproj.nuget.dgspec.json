@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jgarverick\\source\\Repos\\SampleMobileAppXF\\SampleMobileAppXF\\SampleMobileAppXF.MobileAppService\\SampleMobileAppXF.MobileAppService.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jgarverick\\source\\Repos\\SampleMobileAppXF\\SampleMobileAppXF\\SampleMobileAppXF.MobileAppService\\SampleMobileAppXF.MobileAppService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jgarverick\\source\\Repos\\SampleMobileAppXF\\SampleMobileAppXF\\SampleMobileAppXF.MobileAppService\\SampleMobileAppXF.MobileAppService.csproj",
+        "projectName": "SampleMobileAppXF.MobileAppService",
+        "projectPath": "C:\\Users\\jgarverick\\source\\Repos\\SampleMobileAppXF\\SampleMobileAppXF\\SampleMobileAppXF.MobileAppService\\SampleMobileAppXF.MobileAppService.csproj",
+        "packagesPath": "C:\\Users\\jgarverick\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jgarverick\\source\\Repos\\SampleMobileAppXF\\SampleMobileAppXF\\SampleMobileAppXF.MobileAppService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jgarverick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
